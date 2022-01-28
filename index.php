@@ -165,7 +165,7 @@ float:right;
 </head>
 
 <body>
-<div class="container" style="height:110px;">
+<div class="container" style="height:1100px;">
 <div class="header"  style="
         margin-left: 230px;">
   <h1 style="font-size:40px;">Future Fabrics</h1>
