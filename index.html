@@ -98,7 +98,7 @@
 .sidbar { 
 grid-area: sidbar; 
 font-family: Brandon Grotesque Bold;
-
+font-size:25px;
 }
 
 .main-context { grid-area: main-context; 
@@ -165,7 +165,7 @@ float:right;
 </head>
 
 <body>
-<div class="container" style="height:800px;">
+<div class="container" style="height:110px;">
 <div class="header"  style="
         margin-left: 230px;">
   <h1 style="font-size:40px;">Future Fabrics</h1>
@@ -403,16 +403,331 @@ ECONLY® can be found clothes, handbags, lingerie, and sportswear.</p>
 	<ul>
 	<li>High use of energy during the production process</li>
 	</ul>
-	<div>
+	</div>
 	
+</div>
+	
+	</div>
+	</div>
+	</div>
+	
+	
+	<div id="div7" class="switchDiv" style="display:none">
+   <div id="content">
+    <div id="inner-content" class="element-animation" >
+	<h1 style="margin-bottom: 60px; font-family: Brandon Grotesque Black;">CUPRO</h1>
+	<img src="rename.png"  class="imgs">
+<div>
+<p>Cupro, also known as Cuprammonium rayon, Cupra, ammonia silk, and Bemberg, are all the names of a plant-based material made out of cotton waste.
+
+<br><br>It is vegan, cruelty-free, and its luxurious qualities make it the perfect alternative for silk.
+
+<br><br>It is often used in thin, sheer garments, colourful prints, and sportswear due to its highly breathable nature and sheer, lightweight properties.
+
+</p>
+<div style="float: left;width: 400px;height: 300px;">   
+   <h2 style="font-family:Brandon Grotesque Black;">PROS</h2>
+	<ul>
+	<li>Low water requirements</li>
+<li>Low energy requirements</li>
+<li>Made of waste product</li>
+<li>Made from renewable resources</li>
+<li>Chemical control</li>
+<li>No soil erosion</li>
+	</ul>
+	
+	</div>
+	<div style="float: right;margin-right: 0px;width: 200px;margin-left: 0px;">
+    <h2 style="font-family:Brandon Grotesque Black;">CONS</h2>
+	<ul>
+	<li>Uses harmful chemicals – even though the chemicals are reused multiple times, the disposal will have to occur at some point</li>
+	</ul>
+	</div>
+	
+</div>
 </div>
 	</div>
 	</div>
+	
+	
+	
+	<div id="div8" class="switchDiv" style="display:none">
+   <div id="content">
+    <div id="inner-content" class="element-animation" >
+	<h1 style="margin-bottom: 60px; font-family: Brandon Grotesque Black;">RECYCLED LEATHER</h1>
+	<img src="rename.png"  class="imgs">
+<div>
+<p>E-Leather is the developer of engineered leather. Created in the UK, E-Leather has expanded across over 50 countries as the supplier for recycled leather to industries ranging from transport to footwear.
+
+<br><br>A significant amount of leather is often unused and destined for landfills. Its revolutionary process turns leather into new, high-performance materials whilst achieving a lower environmental footprint. The materials made from recycled leather are more advanced and more durable than traditional leather.
+</p>
+<div style="float: left;width: 400px;height: 300px;">   
+   <h2 style="font-family:Brandon Grotesque Black;">PROS</h2>
+	<ul>
+	<li>Increase the amount of recycled content</li>
+<li>Lower Carbon emissions</li>
+<li>Reduce the use of scarce resources</li>
+	</ul>
+	
 	</div>
+	<div style="float: right;margin-right: 0px;width: 200px;margin-left: 0px;">
+    <h2 style="font-family:Brandon Grotesque Black;">CONS</h2>
+	<ul>
+	<li>Can be expensive</li>
+	</ul>
+	</div>
+	
+</div>
+</div>
 	</div>
 	</div>
 	
 	
+	
+	<div id="div9" class="switchDiv" style="display:none">
+   <div id="content">
+    <div id="inner-content" class="element-animation" >
+	<h1 style="margin-bottom: 60px; font-family: Brandon Grotesque Black;">SUPIMA COTTON</h1>
+	<img src="rename.png"  class="imgs">
+<div>
+<p>Supima Cotton is another sustainable variation of cotton grown in the USA. It’s known as the cashmere of cotton and a substitute for silk.
+
+<br><br>Fully compostable and zero waste. Each part of the Supima plant is harvested. Stalks, stems, and leaves are taken during the grinning process and are used locally for livestock bedding. And the Supima seeds are used to make cottonseed oil, leaving the remains to be used as a source of protein in feed mixes for livestock.
+
+T-shirts, shirt dresses, underwear, nightgowns, and pyjamas are all examples of garments made out of Supima cotton.</p>
+<div style="float: left;width: 400px;height: 300px;">   
+   <h2 style="font-family:Brandon Grotesque Black;">PROS</h2>
+	<ul>
+	<li>Strength – it is a strong fibre, twice as strong as regular cotton. It has longer fibres that can resist pulling or breaking, meaning that the final product will be more durable
+<li>Softness –  the long length of the fibre produces smoother yarns, resulting in a softer fabric, ultimately leaving your products to feel sumptuously soft</li>
+<li>Vibrance – its fine fibres can absorb dye with a long-lasting effect, meaning that the garment can retain colour better than regular cotton. Supima cotton products keep their colour after every wash, giving you many years of use</li>
+</li>
+	</ul>
+	
+	</div>
+	<div style="float: right;margin-right: 0px;width: 200px;margin-left: 0px;">
+    <h2 style="font-family:Brandon Grotesque Black;">CONS</h2>
+	<ul>
+	<li>More expensive than traditional cotton</li>
+	</ul>
+	</div>
+	
+</div>
+</div>
+	</div>
+	</div>
+	
+	
+	<div id="div10" class="switchDiv" style="display:none">
+   <div id="content">
+    <div id="inner-content" class="element-animation" >
+	<h1 style="margin-bottom: 60px; font-family: Brandon Grotesque Black;">MODAL</h1>
+	<img src="rename.png"  class="imgs">
+<div>
+<p>Modal is a semi-synthetic fibre and another form of rayon made from beech tree pulp. The production of modal is similar to that of viscose rayon but is considered to be more eco-friendly. Because of its breathable and soft nature, it is used in underwear, activewear, t-shirts, bedsheets, and towels.
+
+<br><br>Modal is more expensive than viscose or cotton and is considered more luxurious. It is also an alternative to cotton or silk.</p>
+<div style="float: left;width: 400px;height: 300px;">   
+   <h2 style="font-family:Brandon Grotesque Black;">PROS</h2>
+	<ul>
+	<li>Biodegradable</li>
+<li>Water absorbent</li>
+<li>Lower carbon footprint</li>
+<li>Lower energy requirements</li>
+	</ul>
+	
+	</div>
+	<div style="float: right;margin-right: 0px;width: 200px;margin-left: 0px;">
+    <h2 style="font-family:Brandon Grotesque Black;">CONS</h2>
+	<ul>
+	<li>The level of sustainability depends on each supplier and its own production process</li>
+<li>Use of harmful chemicals during the production process</li>
+<li>Forest destruction</li>
+	</ul>
+	</div>
+	
+</div>
+</div>
+	</div>
+	</div>
+	
+	
+	<div id="div11" class="switchDiv" style="display:none">
+   <div id="content">
+    <div id="inner-content" class="element-animation" >
+	<h1 style="margin-bottom: 60px; font-family: Brandon Grotesque Black;">CORK</h1>
+	<img src="rename.png"  class="imgs">
+<div>
+<p>Cork fabric, also known as cork leather, is an eco-friendly alternative to leather and vinyl. It is a natural, high-quality fabric that is produced from shavings obtained from the bark of the cork of the oak tree.
+
+<br><br>The production of cork fabric is a lengthy one. It takes time. The cork oak tree needs to be 25 years old, and the first harvest is unusable. However, after nine years, the second harvest can be used for fashion purposes.
+
+<br><br>Why nine years? Well, this is how long it takes the tree to rebuild its bark! Because of this recovery process, the harvested cork absorbs more carbon dioxide compared to an unharvested one.
+No trees are harmed in the harvesting process. This process is natural and helps prolong the lifespan of cork oak trees by up to 300 years.
+
+In fashion, cork fabric is used to make wallets, handbags, shoes, and clothing.</p><div style="float: left;width: 400px;height: 300px;">   
+   <h2 style="font-family:Brandon Grotesque Black;">PROS</h2>
+	<ul>
+	<li>Biodegradable</li>
+<li>No harm to animals</li>
+<li>Washable</li>
+<li>Stain-resistant</li>
+<li>Durable</li>
+<li>Antimicrobial</li>
+	</ul>
+	
+	</div>
+	<div style="float: right;margin-right: 0px;width: 200px;margin-left: 0px;">
+    <h2 style="font-family:Brandon Grotesque Black;">CONS</h2>
+	<ul>
+	<li>Can occasionally be brittle</li>
+	</ul>
+	</div>
+	
+</div>
+</div>
+	</div>
+	</div>
+	
+	
+		<div id="div12" class="switchDiv" style="display:none">
+   <div id="content">
+    <div id="inner-content" class="element-animation" >
+	<h1 style="margin-bottom: 60px; font-family: Brandon Grotesque Black;">ECOVERO</h1>
+	<img src="rename.png"  class="imgs">
+<div>
+<p>EcoVero is a sustainable alternative to viscose and silk. Unlike other forms of viscose, EcoVero sets stricter environmental standards.
+
+<br><br>Produced by leading cellulose fibre producer Lenzing, EcoVero is made using sustainable wood from controlled sources.
+
+EcoVero is soft, comfortable, breathable, and quick-drying. In fashion, EcoVero can be found in knitwear, sportswear, blouses, dresses, suits, and hats.
+
+</p><div style="float: left;width: 400px;height: 300px;">   
+   <h2 style="font-family:Brandon Grotesque Black;">PROS</h2>
+	<ul>
+	<li>Lower CO2 emissions</li>
+<li>Lower water impact</li>
+<li>Chemicals used are recovered and reused</li>
+<li>Biodegradable and compostable</li>
+	</ul>
+	
+	</div>
+	<div style="float: right;margin-right: 0px;width: 200px;margin-left: 0px;">
+    <h2 style="font-family:Brandon Grotesque Black;">CONS</h2>
+	<ul>
+	<li>Can be expensive</li>
+	</ul>
+	</div>
+	
+</div>
+</div>
+	</div>
+	</div>
+	
+	<div id="div13" class="switchDiv" style="display:none">
+   <div id="content">
+    <div id="inner-content" class="element-animation" >
+	<h1 style="margin-bottom: 60px; font-family: Brandon Grotesque Black;">WOOL</h1>
+	<img src="rename.png"  class="imgs">
+<div>
+<p>Wool is a super soft, renewable natural fibre. It comes from a variety of animals; however, the most common type is from sheep.
+
+<br><br>In fashion, it is used in knitwear such as sweatshirts, jumpers, scarves, and hats.
+
+<br><br>The steps involved in manufacturing wool are shearing, cleaning, grading, and sorting, carding, spinning, weaving, and finishing.
+
+Although wool is considered an eco-friendly fabric, there are some concerns about animal welfare. As the sheep are often not treated well and shearing can cause severe injuries to the animals.
+</p><div style="float: left;width: 400px;height: 300px;">   
+   <h2 style="font-family:Brandon Grotesque Black;">PROS</h2>
+	<ul>
+	<li>Less energy and water needed than other fibres</li>
+<li>Eco-friendly</li>
+<li>Renewable</li>
+<li>Biodegradable</li>
+<li>Natural Material</li>
+	</ul>
+	
+	</div>
+	<div style="float: right;margin-right: 0px;width: 200px;margin-left: 0px;">
+    <h2 style="font-family:Brandon Grotesque Black;">CONS</h2>
+	<ul>
+	<li>Soil erosion</li>
+<li>Animal cruelty</li>
+	</ul>
+	</div>
+	
+</div>
+</div>
+	</div>
+	</div>
+	
+	
+	<div id="div14" class="switchDiv" style="display:none">
+   <div id="content">
+    <div id="inner-content" class="element-animation" >
+	<h1 style="margin-bottom: 60px; font-family: Brandon Grotesque Black;">ORGANIC WOOL</h1>
+	<img src="rename.png"  class="imgs">
+<div>
+<p>Organic wool is a natural alternative to wool. Its natural fibres are recyclable, biodegradable, and do not cause environmental pollution.
+
+<br><br>Organic wool comes from sheep raised in natural, healthy conditions, meaning that they have been grazed on fertiliser and pesticide-free land and have not been exposed to harmful substances.</p><div style="float: left;width: 400px;height: 300px;">   
+   <h2 style="font-family:Brandon Grotesque Black;">PROS</h2>
+	<ul>
+	<li>Renewable</li>
+<li>Non-allergenic</li>
+<li>Durable</li>
+<li>No exposure to harsh chemicals</li>
+	</ul>
+	
+	</div>
+	<div style="float: right;margin-right: 0px;width: 200px;margin-left: 0px;">
+    <h2 style="font-family:Brandon Grotesque Black;">CONS</h2>
+	<ul>
+	<li>Non-vegan</li>
+	</ul>
+	</div>
+	
+</div>
+</div>
+	</div>
+	</div>
+	
+	
+	<div id="div15" class="switchDiv" style="display:none">
+   <div id="content">
+    <div id="inner-content" class="element-animation" >
+	<h1 style="margin-bottom: 60px; font-family: Brandon Grotesque Black;">PINATEX</h1>
+	<img src="rename.png"  class="imgs">
+<div>
+<p>Made from waste, Pina Fibre is a sustainable natural material drawn from the leaves of a pineapple. It uses by-products of pineapple harvests, meaning no extra resources are needed.
+
+<br><br>Pina Fibre creates a sheer, stiff, and lightweight material traditionally used for formal wear and accessories ideal for subtropical climates. The fibre Piñatex is used as a replacement for leather in fashion and provides shoppers with a sustainable choice for a sustainable future.
+
+<br><br>
+</p>
+<div style="float: left;width: 400px;height: 300px;"> 
+<h2 style="font-family:Brandon Grotesque Black;">PROS</h2>
+	<ul>
+	<li>Low water requirements</li>
+<li>Low energy requirements</li>
+<li>Made of waste</li>
+<li>Made from renewable resources</li>
+<li>Chemical control</li>
+<li>No soil erosion</li>
+	</ul>
+	
+	</div>
+	<div style="float: right;margin-right: 0px;width: 200px;margin-left: 0px;">
+    <h2 style="font-family:Brandon Grotesque Black;">CONS</h2>
+	<ul>
+	<li>Fabric is expensive</li>
+	</ul>
+	</div>
+	
+</div>
+</div>
+	</div>
+	</div>
 	
 	</div><!--clos tag for main-context-->
 	</div>
