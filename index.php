@@ -168,7 +168,7 @@ float:right;
 <div class="container" style="height:1100px;">
 <div class="header"  style="
         margin-left: 230px;">
-  <h1 style="font-size:40px;">Future Fabrics</h1>
+  <h1 style="font-size:40px;">FUTURE FABRIC GUIDE</h1>
   </div>
 
 
